@@ -12,7 +12,7 @@ Hi! I'm Anurag Verma, a passionate full-stack developer and designer. I love bui
 
 ## 🚀 Projects
 - **[Votely](https://github.com/Anurag-amrev-7557/votely)**: A modern, full-stack polling platform with real-time results and a beautiful UI.
-- **[Portfolio Website](https://anuragverma.me/)**: My personal portfolio showcasing my work and skills.
+- **[Portfolio Website](https://anuragverma.web.app/)**: My personal portfolio showcasing my work and skills.
 - *(More coming soon!)*
 
 ---
@@ -69,7 +69,7 @@ Hi! I'm Anurag Verma, a passionate full-stack developer and designer. I love bui
 
 ## 📫 Contact Me
 - Email: anuragverma08002@gmail.com
-- Portfolio: [anuragverma.me](https://anuragverma.me/)
+- Portfolio: [anuragverma.me](https://anuragverma.web.app/)
 
 ---
 
