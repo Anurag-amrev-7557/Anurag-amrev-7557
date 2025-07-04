@@ -1,8 +1,18 @@
 <!-- Modern Icon Header Example: https://shields.io/ or SVGs -->
 
-<!-- Banner (replace with your own if desired) -->
+<!-- Modern Smooth Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Anurag+Verma;Full-Stack+Developer+%7C+Designer;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00C9A7&center=true&vCenter=true&width=800&lines=👋+Hey%2C+I'm+Anurag+Verma!;🚀+Full-Stack+Developer+%7C+Designer;💡+Crafting+modern+web+experiences;🌱+Exploring+ML+%26+DSA;✨+Welcome+to+my+GitHub+space!" alt="Animated Typing SVG" style="border-radius: 12px; box-shadow: 0 4px 24px rgb(17, 95, 168);" />
+  <br/>
+  <a href="https://anuragverma.web.app/" target="_blank" style="margin: 0 8px;">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-00C9A7?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Badge" />
+  </a>
+  <a href="mailto:anuragverma7557@gmail.com" style="margin: 0 8px;">
+    <img src="https://img.shields.io/badge/Email-Say%20Hi-FF6F61?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/anurag-verma-7557/" target="_blank" style="margin: 0 8px;">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
 </p>
 
 <!-- Quick Stats Badges -->
@@ -10,7 +20,7 @@
   <img src="https://img.shields.io/github/stars/Anurag-amrev-7557?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/github/followers/Anurag-amrev-7557?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/github/forks/Anurag-amrev-7557/votely?style=for-the-badge&logo=github" />
-  <img src="https://visitcount.itsvg.in/api?id=Anurag-amrev-7557&icon=0&color=0&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Anurag-amrev-7557&style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -18,7 +28,7 @@
   <img src="https://img.shields.io/badge/Designer-22223b?style=for-the-badge&logo=figma&logoColor=F24E1E" />
 </p>
 
-# <img src="https://img.shields.io/badge/About%20Me-22223b?style=flat-square&logo=about-dot-me&logoColor=white" height="20"/> 
+# <img src="https://img.shields.io/badge/About%20Me-22223b?style=for-the-badge&logo=about-dot-me&logoColor=white" height="28" style="vertical-align: middle;"/> &nbsp; About Me
 
 Hi! I'm Anurag Verma, a passionate full-stack developer and designer. I love building web apps, collaborating on cool projects, and learning new things in ML & DSA. 
 
@@ -66,7 +76,7 @@ Hi! I'm Anurag Verma, a passionate full-stack developer and designer. I love bui
 
 ---
 
-<details>
+<details open>
 <summary><strong><img src="https://img.shields.io/badge/Tech%20Stack-22223b?style=flat-square&logo=stackshare&logoColor=white" height="20"/> Tech Stack (click to expand)</strong></summary>
 
 **Languages:**  
