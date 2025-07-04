@@ -1,5 +1,18 @@
 <!-- Modern Icon Header Example: https://shields.io/ or SVGs -->
 
+<!-- Banner (replace with your own if desired) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Anurag+Verma;Full-Stack+Developer+%7C+Designer;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+</p>
+
+<!-- Quick Stats Badges -->
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Anurag-amrev-7557?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/followers/Anurag-amrev-7557?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/forks/Anurag-amrev-7557/votely?style=for-the-badge&logo=github" />
+  <img src="https://visitcount.itsvg.in/api?id=Anurag-amrev-7557&icon=0&color=0&style=for-the-badge" />
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Full%20Stack%20Developer-22223b?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Designer-22223b?style=for-the-badge&logo=figma&logoColor=F24E1E" />
@@ -14,6 +27,25 @@ Hi! I'm Anurag Verma, a passionate full-stack developer and designer. I love bui
 - <img src="https://img.shields.io/badge/Learning-ML%20%26%20DSA-orange?style=flat-square&logo=python&logoColor=white" height="18"/> Learning ML & DSA
 - <img src="https://img.shields.io/badge/Ask%20Me-MERN%20Stack-61DAFB?style=flat-square&logo=react&logoColor=white" height="18"/> Ask me about the MERN stack
 - <img src="https://img.shields.io/badge/Designer%20%26%20Developer-Yes-ff69b4?style=flat-square&logo=figma&logoColor=white" height="18"/> Fun fact: I design & develop both!
+
+---
+
+## <img src="https://img.shields.io/badge/Pinned%20Repos-22223b?style=flat-square&logo=pinboard&logoColor=white" height="20"/> Pinned Repositories
+
+- <img src="https://img.shields.io/badge/Votely-Full%20Stack%20Polling%20App-blueviolet?style=flat-square&logo=github" height="18"/> [Votely](https://github.com/Anurag-amrev-7557/votely): Modern polling platform with real-time results and beautiful UI.
+- <img src="https://img.shields.io/badge/Portfolio-React%20%7C%20Design-blue?style=flat-square&logo=react&logoColor=white" height="18"/> [Portfolio Website](https://anuragverma.web.app/): My personal portfolio showcasing my work and skills.
+
+---
+
+## <img src="https://img.shields.io/badge/Toolbox-22223b?style=flat-square&logo=wrench&logoColor=white" height="20"/> Toolbox
+<p>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" height="18"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="18"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" height="18"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" height="18"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" height="18"/>
+  <img src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=google-chrome&logoColor=white" height="18"/>
+</p>
 
 ---
 
@@ -34,7 +66,8 @@ Hi! I'm Anurag Verma, a passionate full-stack developer and designer. I love bui
 
 ---
 
-## <img src="https://img.shields.io/badge/Tech%20Stack-22223b?style=flat-square&logo=stackshare&logoColor=white" height="20"/> Tech Stack
+<details>
+<summary><strong><img src="https://img.shields.io/badge/Tech%20Stack-22223b?style=flat-square&logo=stackshare&logoColor=white" height="20"/> Tech Stack (click to expand)</strong></summary>
 
 **Languages:**  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
@@ -56,6 +89,8 @@ Hi! I'm Anurag Verma, a passionate full-stack developer and designer. I love bui
 
 **Other Tools:**  
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)
+
+</details>
 
 ---
 
