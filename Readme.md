@@ -10,7 +10,7 @@
   <a href="mailto:anuragverma7557@gmail.com" style="margin: 0 8px;">
     <img src="https://img.shields.io/badge/Email-Say%20Hi-FF6F61?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
-  <a href="https://www.linkedin.com/in/anurag-verma-7557/" target="_blank" style="margin: 0 8px;">
+  <a href="https://www.linkedin.com/in/anurag-verma-18645b280/" target="_blank" style="margin: 0 8px;">
     <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </p>
