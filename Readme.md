@@ -1,23 +1,30 @@
-# 💫 About Me
+<!-- Modern Icon Header Example: https://shields.io/ or SVGs -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-22223b?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Designer-22223b?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+</p>
+
+# <img src="https://img.shields.io/badge/About%20Me-22223b?style=flat-square&logo=about-dot-me&logoColor=white" height="20"/> 
 
 Hi! I'm Anurag Verma, a passionate full-stack developer and designer. I love building web apps, collaborating on cool projects, and learning new things in ML & DSA. 
 
-- 🔭 I'm currently working on **Votely**
-- 🤝 Looking to collaborate on web apps
-- 🌱 Learning ML & DSA
-- 💬 Ask me about the MERN stack
-- 🎨 Fun fact: I design & develop both!
+- <img src="https://img.shields.io/badge/Project-Votely-blueviolet?style=flat-square&logo=github" height="18"/> I'm currently working on **Votely**
+- <img src="https://img.shields.io/badge/Collaboration-Welcome-brightgreen?style=flat-square&logo=handshake&logoColor=white" height="18"/> Looking to collaborate on web apps
+- <img src="https://img.shields.io/badge/Learning-ML%20%26%20DSA-orange?style=flat-square&logo=python&logoColor=white" height="18"/> Learning ML & DSA
+- <img src="https://img.shields.io/badge/Ask%20Me-MERN%20Stack-61DAFB?style=flat-square&logo=react&logoColor=white" height="18"/> Ask me about the MERN stack
+- <img src="https://img.shields.io/badge/Designer%20%26%20Developer-Yes-ff69b4?style=flat-square&logo=figma&logoColor=white" height="18"/> Fun fact: I design & develop both!
 
 ---
 
-## 🚀 Projects
+## <img src="https://img.shields.io/badge/Projects-22223b?style=flat-square&logo=github&logoColor=white" height="20"/> Projects
 - **[Votely](https://github.com/Anurag-amrev-7557/votely)**: A modern, full-stack polling platform with real-time results and a beautiful UI.
 - **[Portfolio Website](https://anuragverma.web.app/)**: My personal portfolio showcasing my work and skills.
 - *(More coming soon!)*
 
 ---
 
-## 🌐 Socials
+## <img src="https://img.shields.io/badge/Socials-22223b?style=flat-square&logo=sharethis&logoColor=white" height="20"/> Socials
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/anuragverma109)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/verma.anurag__/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-verma-18645b280/) 
@@ -27,7 +34,7 @@ Hi! I'm Anurag Verma, a passionate full-stack developer and designer. I love bui
 
 ---
 
-## 💻 Tech Stack
+## <img src="https://img.shields.io/badge/Tech%20Stack-22223b?style=flat-square&logo=stackshare&logoColor=white" height="20"/> Tech Stack
 
 **Languages:**  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
@@ -52,32 +59,32 @@ Hi! I'm Anurag Verma, a passionate full-stack developer and designer. I love bui
 
 ---
 
-# 📊 GitHub Stats
+# <img src="https://img.shields.io/badge/GitHub%20Stats-22223b?style=flat-square&logo=github&logoColor=white" height="20"/> GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Anurag-amrev-7557&theme=city_light&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Anurag-amrev-7557&theme=city_light&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-amrev-7557&theme=city_light&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## <img src="https://img.shields.io/badge/Trophies-22223b?style=flat-square&logo=star&logoColor=white" height="20"/> GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Anurag-amrev-7557&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
-### ✍️ Random Dev Quote
+### <img src="https://img.shields.io/badge/Dev%20Quote-22223b?style=flat-square&logo=quote&logoColor=white" height="20"/> Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
 
-## 📫 Contact Me
-- Email: anuragverma08002@gmail.com
-- Portfolio: [anuragverma.me](https://anuragverma.web.app/)
+## <img src="https://img.shields.io/badge/Contact-22223b?style=flat-square&logo=gmail&logoColor=white" height="20"/> Contact Me
+- <img src="https://img.shields.io/badge/Email-anuragverma08002@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" height="18"/> anuragverma08002@gmail.com
+- <img src="https://img.shields.io/badge/Portfolio-anuragverma.web.app-blue?style=flat-square&logo=google-chrome&logoColor=white" height="18"/> [anuragverma.web.app](https://anuragverma.web.app/)
 
 ---
 
-## 🎉 Fun Facts
-- 🎵 I love music and often code with my favorite playlists.
-- 🏸 Table Tennis is my go-to sport.
-- 🖌️ I enjoy art and UI/UX design.
-- 🌏 Always up for learning something new!
+## <img src="https://img.shields.io/badge/Fun%20Facts-22223b?style=flat-square&logo=smugmug&logoColor=white" height="20"/> Fun Facts
+- <img src="https://img.shields.io/badge/Music-Lover-1DB954?style=flat-square&logo=spotify&logoColor=white" height="18"/> I love music and often code with my favorite playlists.
+- <img src="https://img.shields.io/badge/Table%20Tennis-Player-ffb300?style=flat-square&logo=table-tennis&logoColor=white" height="18"/> Table Tennis is my go-to sport.
+- <img src="https://img.shields.io/badge/Art%20%26%20UI%2FUX%20Design-ff69b4?style=flat-square&logo=artstation&logoColor=white" height="18"/> I enjoy art and UI/UX design.
+- <img src="https://img.shields.io/badge/Learning%20New%20Things-00bcd4?style=flat-square&logo=book&logoColor=white" height="18"/> Always up for learning something new!
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Anurag-amrev-7557&icon=0&color=0)](https://visitcount.itsvg.in)
