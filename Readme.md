@@ -2,7 +2,7 @@
 
 <!-- Modern Smooth Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00C9A7&center=true&vCenter=true&width=800&lines=👋+Hey%2C+I'm+Anurag+Verma!;🚀+Full-Stack+Developer+%7C+Designer;💡+Crafting+modern+web+experiences;🌱+Exploring+ML+%26+DSA;✨+Welcome+to+my+GitHub+space!" alt="Animated Typing SVG" style="border-radius: 12px; box-shadow: 0 4px 24px rgb(17, 95, 168);" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00C9A7&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Anurag+Verma;Full-Stack+Developer+%7C+Designer;Crafting+modern+web+experiences;Exploring+ML+and+DSA;Welcome+to+my+GitHub+space!" alt="Animated Typing SVG" style="border-radius: 12px; box-shadow: 0 4px 24px rgb(17, 95, 168);" />
   <br/>
   <a href="https://anuragverma.web.app/" target="_blank" style="margin: 0 8px;">
     <img src="https://img.shields.io/badge/Portfolio-Explore-00C9A7?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Badge" />
